@@ -1,2 +1,4 @@
-# 01-24-2025-learning-about-version-control
-Solving merge conflicts is soooooo hard!
+
+# Learning about Version Control
+## Maxine Paredes
+"Solving merge conflicts takes conscious effort, but I can do it!"
